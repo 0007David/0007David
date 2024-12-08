@@ -1,5 +1,12 @@
-## Hi there 👋
+![Banner](https://0007david.github.io/profile/images/banner/banner-github.png)
 
+## Hello 👋 I'm David Torrez ✨
+
+## Sobre mí 😎🔑
+- 🎓 **Software engineering**
+- 💻 **Proactive and self-taught software developer**
+<!--- 📹 **YouTuber de tecnología** -->
+- 🛠️ Tools And Tecno en **Java | Spring BooT | Angular | Flutter**
 <!--
 **0007David/0007David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
